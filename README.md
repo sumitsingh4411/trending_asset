@@ -1,3 +1,10 @@
+# for Desktop
+<img width="1440" alt="Screenshot 2023-03-22 at 11 29 23 PM" src="https://user-images.githubusercontent.com/76992713/226996181-f252b1c5-3b54-45d7-b50c-9625bf8a92ad.png">
+
+# for mobile
+<img width="308" alt="Screenshot 2023-03-22 at 11 29 38 PM" src="https://user-images.githubusercontent.com/76992713/226996236-7cd9fd81-7a1b-461d-8457-a5ebf93e0684.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
