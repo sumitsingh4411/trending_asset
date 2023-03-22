@@ -11,7 +11,10 @@
   overflow-x: hidden;
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
-  padding: 80px;
+  padding: 76px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 .main_container::-webkit-scrollbar {
   display: none;
