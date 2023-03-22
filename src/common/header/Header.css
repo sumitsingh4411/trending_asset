@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.header__title {
+  font-weight: 600;
+  font-size: 16px;
+  color: #ecf0ff;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+}
